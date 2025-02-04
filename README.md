@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA) on Café Sales Data
+# Exploratory Data Analysis (EDA) on Cafe Sales Data
 
 ## Introduction
 
